@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427120933389",
+    "firebase_url": "https://educontrol-abdf9.firebaseio.com",
+    "project_id": "educontrol-abdf9",
+    "storage_bucket": "educontrol-abdf9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427120933389:android:ffd8031130c99842",
+        "android_client_info": {
+          "package_name": "com.tushar.educontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427120933389-t2ubplspt4d3o18bn9vqdk4sn0a11lbd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLe5-qtJuzzgYy7O1fO1MQXLSE25JxIts"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
