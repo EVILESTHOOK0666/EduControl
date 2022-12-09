@@ -14,7 +14,7 @@
     "aws-sdk": "^2.311.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^4.13.7",
